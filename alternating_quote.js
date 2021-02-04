@@ -4,4 +4,4 @@
   document.getElementById('quoteDisplay').innerHTML = quotes[randomQuote];
 })();
 
-// , 'fact 666' < copy + paste this to add a new quote
+// , 'Quote goes here...' < copy + paste this to add a new quote
